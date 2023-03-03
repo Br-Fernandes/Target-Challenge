@@ -10,8 +10,7 @@ public class Main {
 
         int a = 0;
         int b = 1;
-
-
+        
         while (b < num) {
             int temp = b;
             b = a + b;
