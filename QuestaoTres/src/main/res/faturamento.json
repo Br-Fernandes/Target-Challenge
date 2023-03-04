@@ -1,0 +1,33 @@
+{
+   "mes": "fevereiro",
+   "faturamento": [
+      {"dia": 1, "valor": 5000},
+      {"dia": 2, "valor": 6500},
+      {"dia": 3, "valor": 8000},
+      {"dia": 4, "valor": 4500},
+      {"dia": 5, "valor": 7500},
+      {"dia": 6, "valor": 0},
+      {"dia": 7, "valor": 0},
+      {"dia": 8, "valor": 10000},
+      {"dia": 9, "valor": 8200},
+      {"dia": 10, "valor": 9200},
+      {"dia": 11, "valor": 4000},
+      {"dia": 12, "valor": 6000},
+      {"dia": 13, "valor": 8700},
+      {"dia": 14, "valor": 0},
+      {"dia": 15, "valor": 0},
+      {"dia": 16, "valor": 9300},
+      {"dia": 17, "valor": 6500},
+      {"dia": 18, "valor": 5200},
+      {"dia": 19, "valor": 8900},
+      {"dia": 20, "valor": 0},
+      {"dia": 21, "valor": 0},
+      {"dia": 22, "valor": 7400},
+      {"dia": 23, "valor": 6800},
+      {"dia": 24, "valor": 7900},
+      {"dia": 25, "valor": 5300},
+      {"dia": 26, "valor": 6700},
+      {"dia": 27, "valor": 8400},
+      {"dia": 28, "valor": 0}
+   ]
+}
